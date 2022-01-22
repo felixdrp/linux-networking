@@ -17,12 +17,24 @@
 
 - [Network bridge](https://wiki.archlinux.org/index.php/Network_bridge)
 
+## network bandwidth monitoring
+- [network-bandwidth-monitoring-tools](https://www.tecmint.com/linux-network-bandwidth-monitoring-tools/)
+
+```bash
+# Option description
+# -b, --use-bit
+#    Show rates in bits per second instead of bytes per second. 
+#  -U, --use-si
+#    Use SI unit system (1KB = 1'000 bytes) instead of 1KB = 1'024 bytes.
+
+bmon -b
+```
 
 ## Examples
 
 ```bash
 # Show address
-# Options
+# Option description
 #  c colors
 #  h output statistics with human readable
 #  s statistics or some time values.
