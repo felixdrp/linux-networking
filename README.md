@@ -19,6 +19,8 @@
 
 - [mytcpip.com/netplan-ubuntu/](https://mytcpip.com/netplan-ubuntu/)
 
+- [archlinux.org systemd-networkd](https://wiki.archlinux.org/title/systemd-networkd)
+
 ## network bandwidth monitoring
 - [network-bandwidth-monitoring-tools](https://www.tecmint.com/linux-network-bandwidth-monitoring-tools/)
 
