@@ -17,6 +17,8 @@
 
 - [Network bridge](https://wiki.archlinux.org/index.php/Network_bridge)
 
+- [mytcpip.com/netplan-ubuntu/](https://mytcpip.com/netplan-ubuntu/)
+
 ## network bandwidth monitoring
 - [network-bandwidth-monitoring-tools](https://www.tecmint.com/linux-network-bandwidth-monitoring-tools/)
 
