@@ -36,6 +36,9 @@ bmon -b
 
 - [IPerf is a CLI tool that determines the bandwidth between 2 points in a network](https://github.com/scc365/guide-network-testing/blob/main/iperf/IPERF.md)
 
+- [hping is an open-source packet generator and analyzer for the TCP/IP protocol](https://en.wikipedia.org/wiki/Hping)
+
+
 
 ## Examples
 
