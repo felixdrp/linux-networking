@@ -34,6 +34,9 @@
 bmon -b
 ```
 
+- [IPerf is a CLI tool that determines the bandwidth between 2 points in a network](https://github.com/scc365/guide-network-testing/blob/main/iperf/IPERF.md)
+
+
 ## Examples
 
 ```bash
