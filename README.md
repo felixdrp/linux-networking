@@ -42,6 +42,24 @@ bmon -b
 
 iftop does for network usage what top(1) does for CPU usage. It listens to network traffic on a named interface and displays a table of current bandwidth usage by pairs of hosts. Handy for answering the question "why is our ADSL link so slow?". 
 
+## Netcat 
+
+  .       .       
+  \`-"'"-'/       
+   } 6 6 {        
+  ==. Y ,==       
+    /^^^\  .      
+   /     \  )     
+  (  )-(  )/     _
+  -""---""---   / 
+ /   Ncat    \_/  
+(     ____        
+ \_.=|____E 
+
+[https://nmap.org/ncat/](https://nmap.org/ncat/)
+
+Among Ncat’s vast number of features there is the ability to chain Ncats together, redirect both TCP and UDP ports to other sites, SSL support, and proxy connections via SOCKS4 or HTTP (CONNECT method) proxies (with optional proxy authentication as well).
+
 ## Some useful commands
 
 ```bash
