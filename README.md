@@ -43,7 +43,7 @@ bmon -b
 iftop does for network usage what top(1) does for CPU usage. It listens to network traffic on a named interface and displays a table of current bandwidth usage by pairs of hosts. Handy for answering the question "why is our ADSL link so slow?". 
 
 ## Netcat 
-
+```
   .       .       
   \`-"'"-'/       
    } 6 6 {        
@@ -54,7 +54,8 @@ iftop does for network usage what top(1) does for CPU usage. It listens to netwo
   -""---""---   / 
  /   Ncat    \_/  
 (     ____        
- \_.=|____E 
+ \_.=|____E
+```
 
 [https://nmap.org/ncat/](https://nmap.org/ncat/)
 
