@@ -20,6 +20,8 @@
 - [mytcpip.com/netplan-ubuntu/](https://mytcpip.com/netplan-ubuntu/)
 
 - [archlinux.org systemd-networkd](https://wiki.archlinux.org/title/systemd-networkd)
+  
+- [nftables book iescierva.net Spanish](https://www.iescierva.net/wp-content/uploads/2024/09/nftables.pdf)
 
 ## network bandwidth monitoring
 - [network-bandwidth-monitoring-tools](https://www.tecmint.com/linux-network-bandwidth-monitoring-tools/)
